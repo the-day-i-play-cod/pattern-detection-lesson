@@ -1,0 +1,6 @@
+Fold 1: Val Acc=0.5647, Test Acc=0.6292
+Fold 2: Val Acc=0.6000, Test Acc=0.5667
+Fold 3: Val Acc=0.5824, Test Acc=0.5542
+Fold 4: Val Acc=0.6118, Test Acc=0.5958
+Fold 5: Val Acc=0.5941, Test Acc=0.5649
+Average Val Acc=0.5906, Average Test Acc=0.5821
