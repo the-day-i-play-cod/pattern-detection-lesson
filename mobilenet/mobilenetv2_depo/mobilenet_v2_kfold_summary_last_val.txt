@@ -1,0 +1,7 @@
+Fold 1: Last Val Acc=0.3582
+Fold 2: Last Val Acc=0.4908
+Fold 3: Last Val Acc=0.4048
+Fold 4: Last Val Acc=0.5093
+Fold 5: Last Val Acc=0.4346
+Average Last Val Acc=0.4395
+Std Last Val Acc=0.0554
